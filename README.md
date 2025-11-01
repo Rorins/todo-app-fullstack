@@ -1,6 +1,10 @@
 # Todo App
 
 Welcome to the Todo app! This application allows you to manage your tasks.
+Below detailed documentation I made in italian:
+[db-todo.pdf](https://github.com/user-attachments/files/23286106/db-todo.pdf)
+[documentazione-todo.pdf](https://github.com/user-attachments/files/23286107/documentazione-todo.pdf)
+
 
 ![Todo App log in](https://raw.githubusercontent.com/Rorins/todo-app-frontend/main/fullstack-todo-app/src/assets/screenshots/log-page.png)
 ![Todo App Main page](https://raw.githubusercontent.com/Rorins/todo-app-frontend/main/fullstack-todo-app/src/assets/screenshots/main-app.png)
