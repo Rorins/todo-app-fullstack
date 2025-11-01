@@ -2,6 +2,8 @@
 
 Welcome to the Todo app! This application allows you to manage your tasks.
 
+This was made as a coding challenge for a company.
+
 Below detailed documentation I made in italian:
 
 [db-todo.pdf](https://github.com/user-attachments/files/23286106/db-todo.pdf)
